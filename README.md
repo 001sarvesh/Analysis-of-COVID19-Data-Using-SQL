@@ -1,4 +1,6 @@
 # Analysis-of-COVID19-Data-Using-SQL
+# DataCure: COVID Analysis
+
 
 The Covid-19 pandemic was a really serious outbreak that cost lives and affected the economy negatively. In this micro project, I have tried to analyse the COVID-19 data using SQL. The dataset used for this
 project have the recorded cases from 24th February 2020 to 30th April 2021. I got this daily updated dataset on this [website](https://ourworldindata.org/covid-deaths).
